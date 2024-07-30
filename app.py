@@ -53,7 +53,7 @@ def add_custom_css():
 
 add_custom_css()
 
-st.title("LeaderAI")
+st.title("Leader Oracle")
 st.subheader("Explore World Leaders' Strategies on Global Issues")
 
 def typing_animation(message):
